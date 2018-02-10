@@ -1,2 +1,1 @@
-new testing file 2
-+ updates
++ updates on local branch b1
